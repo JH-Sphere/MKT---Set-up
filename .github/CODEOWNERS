@@ -1,0 +1,7 @@
+# You own everything by default
+* @JH-Sphere
+
+# But you can treat docs as low-risk (still owned by you, but can be adjusted later)
+README.md @JH-Sphere
+AGENTS.md @JH-Sphere
+docs/* @JH-Sphere
